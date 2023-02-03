@@ -1,6 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Frontend Mentor - QR code component solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -18,15 +18,15 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Screenshot
 
-![](/screenshots/desktop-screenshot.png)
+![](/screenshots/desktop-screenshot.jpeg)
 
 
-![](/screenshots/mobile-screenshot.png)
+![](/screenshots/mobile-screenshot.jpg)
 
 ### Links
 
-- Solution URL: [Product Preview Card](https://github.com/leoemaxie/qr-card-component)
-- Live Site URL: [QR Card Component](https://365-qr-card-component)
+- Solution URL: [QR Card Component](https://github.com/leoemaxie/qr-card-component)
+- Live Site URL: [QR Card Component](https://leoemaxie-qr-card-component.netlify.app)
 
 
 ## My process
