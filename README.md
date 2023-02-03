@@ -25,8 +25,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [QR Card Component](https://github.com/leoemaxie/qr-card-component)
-- Live Site URL: [QR Card Component](https://leoemaxie-qr-card-component.netlify.app)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-component-card-using-css-flexbox-oYgAiH--Pt](https://www.frontendmentor.io/solutions/qr-component-card-using-css-flexbox-oYgAiH--Pt)
+- Live Site URL: [https://github.com/leoemaxie/qr-card-component](https://leoemaxie-qr-card-component.netlify.app)
 
 
 ## My process
